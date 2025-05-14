@@ -9,15 +9,4 @@ I'm a **Software Engineering** student at **Bahirdar University (BDU)**, passion
 
           ✨ **Thanks for visiting my profile!**
 
-<style>
-  h1 {
-    color: #3498db; /* Blue for the main header */
-  }
-  p {
-    color: #2ecc71; /* Green for paragraphs */
-  }
-  blockquote {
-    color: #9b59b6; /* Purple for quotes */
-  }
-</style>
 
